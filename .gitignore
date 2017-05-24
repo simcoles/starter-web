@@ -1,0 +1,6 @@
+*.orig
+
+*_LOCAL_*
+*_BACKUP_*
+*_BASE_*
+*_REMOTE_*
