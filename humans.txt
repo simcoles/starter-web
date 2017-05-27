@@ -14,4 +14,4 @@
     HTML5, CSS3
     jQuery, Modernizr
 # New Category
-Let's put some new text on the remote computer
+Let's put some new text on the remote computer - and I'm also making chnage son the remote computer
