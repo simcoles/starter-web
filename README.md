@@ -5,7 +5,8 @@ More changes from feature branch too. Adding emergency fix after Stash
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+Let's change the purpose of this thing.
 
 ## Deployment
 
